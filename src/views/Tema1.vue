@@ -341,7 +341,7 @@
             .col-lg-2.col-5: img(src='@/assets/curso/temas/tema1/36.svg', alt='')
             .col-lg-10
               p Para reforzar los conceptos sobre metodología Scrum, se recomienda leer el e-libro de Subra J. (2020). Scrum: un método ágil para sus proyectos. 
-              a.anexo.mb-4.mb-lg-0.d-inline-block(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+              a.anexo.mb-4.mb-lg-0.d-inline-block(href="https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_biblioteca_eniDPT3SCRU" target="_blank")
                 .anexo__icono
                   img(src="@/assets/template/icono-link.svg")
                 .anexo__texto
@@ -349,7 +349,7 @@
                     br
                     |Scrum: un método ágil para sus proyectos.
               p Asimismo, el artículo Aplicación de UML y SCRUM al desarrollo del #[em software] sobre control de acceso. publicado por Páez, Cortés, Simanca & Blanco. (octubre de 2021).  
-              a.anexo.mb-4.mb-lg-0.d-inline-block(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+              a.anexo.mb-4.mb-lg-0.d-inline-block(href="https://doi-org.bdigital.sena.edu.co/10.4067/S0718-07642021000500057" target="_blank")
                 .anexo__icono
                   img(src="@/assets/template/icono-link.svg")
                 .anexo__texto
@@ -414,7 +414,7 @@
             .col-lg-2.col-5: img(src='@/assets/curso/temas/tema1/45.svg', alt='')
             .col-lg-10
               p Para afianzar los conocimientos en esta unidad temática, se recomienda leer el e-libro de Piattini, García Rubio, Pino & García Rodríguez. (2020). Calidad de sistemas de información. 
-              a.anexo.mb-4.mb-lg-0.d-inline-block(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+              a.anexo.mb-4.mb-lg-0.d-inline-block(href="https://www.alphaeditorialcloud.com/library/publication/calidad-de-sistemas-de-informacion-5a-edicion-ampliada-y-actualizada" target="_blank")
                 .anexo__icono
                   img(src="@/assets/template/icono-link.svg")
                 .anexo__texto
