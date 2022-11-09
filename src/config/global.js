@@ -37,13 +37,13 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Introducción a pruebas de software',
+        titulo: 'Introducción a pruebas de <em> software</em>',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '1.1',
-            titulo: 'Testing y calidad de software',
+            titulo: '<em> Testing</em> y calidad de <em> software</em>',
             hash: 't_1_1',
           },
           {
@@ -55,7 +55,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '1.3',
-            titulo: 'Metodología de desarrollo de software ágil',
+            titulo: 'Metodología de desarrollo de <em> software</em> ágil',
             hash: 't_1_3',
           },
           {
