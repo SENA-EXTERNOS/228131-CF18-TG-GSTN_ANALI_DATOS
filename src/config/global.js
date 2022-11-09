@@ -1,9 +1,10 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE DEL COMPONENTE FORMATIVO',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
+    componenteFormativo: 'Pruebas y calidad de <em>software</em>',
+    descripcionCurso:
+      'Las pruebas de calidad de <em>software</em> o <em>Testing</em> en inglés son los procesos que proporcionan herramientas para constatar la calidad de una aplicación y con ello evitar que se presenten fallas en la implementación. Las pruebas hacen parte de las fases del desarrollo del <em>software</em> y son fundamentales para descubrir los errores o bugs antes que los usuarios finales.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
-    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
+    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.svg'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
