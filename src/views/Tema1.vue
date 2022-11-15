@@ -81,7 +81,8 @@
       .col-lg-8(data-aos="zoom-in")
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
           h5 Figura 2 
-          span Calidad del #[em software]
+          br
+          span.fst-italic Calidad del #[em software]
         ImagenInfograficaB.color-acento-botones.mb-5
           template(v-slot:imagen)
             figure
@@ -296,7 +297,7 @@
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
           h5 Figura 3
           br
-          span Metodología SCRUM
+          span.fst-italic Metodología SCRUM
         img(src='@/assets/curso/temas/tema1/33.svg' alt='AvatarTop').mb-4
         figcaption Referencia. Nota: La infografía ilustra las fases involucradas en la aplicación de la metodología Scrum. 
     .row.justify-content-center.mb-5
