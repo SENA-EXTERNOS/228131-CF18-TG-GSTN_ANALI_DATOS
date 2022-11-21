@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" viewBox="0 0 50 50">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_45076" data-name="Rectangle 45076" width="50" height="50" fill="#4dd0e1" stroke="#4dd0e1" stroke-width="0.5"/>
+    </clipPath>
+  </defs>
+  <g id="_6" data-name="6" transform="translate(-669 -1495)">
+    <g id="Group_147035" data-name="Group 147035" transform="translate(669 1495)">
+      <g id="Group_147034" data-name="Group 147034" clip-path="url(#clip-path)">
+        <path id="Path_204080" data-name="Path 204080" d="M49.167,0H.833A.787.787,0,0,0,0,.833V39.167A.787.787,0,0,0,.833,40H4.167v9.167A.787.787,0,0,0,5,50H45a.787.787,0,0,0,.833-.833V40h3.333A.787.787,0,0,0,50,39.167V.833A.787.787,0,0,0,49.167,0m-.833,6.667H1.667v-5H48.333ZM44.167,20H5.833V15H44.167ZM5.833,21.667H44.167V48.333H5.833Zm40,16.667V14.167A.787.787,0,0,0,45,13.333H5a.787.787,0,0,0-.833.833V38.333h-2.5v-30H48.333v30Z" fill="#4dd0e1" stroke="#4dd0e1" stroke-width="0.5"/>
+        <rect id="Rectangle_45053" data-name="Rectangle 45053" width="3.333" height="1.667" transform="translate(3.333 3.333)" fill="#4dd0e1" stroke="#4dd0e1" stroke-width="0.5"/>
+        <rect id="Rectangle_45054" data-name="Rectangle 45054" width="3.333" height="1.667" transform="translate(8.333 3.333)" fill="#4dd0e1" stroke="#4dd0e1" stroke-width="0.5"/>
+        <rect id="Rectangle_45055" data-name="Rectangle 45055" width="3.333" height="1.667" transform="translate(7.5 16.667)" fill="#4dd0e1" stroke="#4dd0e1" stroke-width="0.5"/>
+        <rect id="Rectangle_45056" data-name="Rectangle 45056" width="3.333" height="1.667" transform="translate(12.5 16.667)" fill="#4dd0e1" stroke="#4dd0e1" stroke-width="0.5"/>
+        <rect id="Rectangle_45057" data-name="Rectangle 45057" width="1.667" height="1.667" transform="translate(45 3.333)" fill="#4dd0e1" stroke="#4dd0e1" stroke-width="0.5"/>
+        <rect id="Rectangle_45058" data-name="Rectangle 45058" width="1.667" height="1.667" transform="translate(41.667 3.333)" fill="#4dd0e1" stroke="#4dd0e1" stroke-width="0.5"/>
+        <rect id="Rectangle_45059" data-name="Rectangle 45059" width="1.667" height="1.667" transform="translate(40.833 16.667)" fill="#4dd0e1" stroke="#4dd0e1" stroke-width="0.5"/>
+        <rect id="Rectangle_45060" data-name="Rectangle 45060" width="1.667" height="1.667" transform="translate(37.5 16.667)" fill="#4dd0e1" stroke="#4dd0e1" stroke-width="0.5"/>
+        <path id="Path_204081" data-name="Path 204081" d="M10.833,44H24.167A.787.787,0,0,0,25,43.167V29.833A.787.787,0,0,0,24.167,29H10.833a.787.787,0,0,0-.833.833V43.167a.787.787,0,0,0,.833.833m.833-6.667h5v5h-5Zm6.667,0h5v5h-5Zm5-1.667h-5v-5h5Zm-6.667,0h-5v-5h5Z" transform="translate(-1.667 -4.833)" fill="#4dd0e1" stroke="#4dd0e1" stroke-width="0.5"/>
+        <rect id="Rectangle_45061" data-name="Rectangle 45061" width="3.333" height="1.667" transform="translate(25.833 24.167)" fill="#4dd0e1" stroke="#4dd0e1" stroke-width="0.5"/>
+        <rect id="Rectangle_45062" data-name="Rectangle 45062" width="1.667" height="1.667" transform="translate(25.833 27.5)" fill="#4dd0e1" stroke="#4dd0e1" stroke-width="0.5"/>
+        <rect id="Rectangle_45063" data-name="Rectangle 45063" width="1.667" height="1.667" transform="translate(29.167 27.5)" fill="#4dd0e1" stroke="#4dd0e1" stroke-width="0.5"/>
+        <rect id="Rectangle_45064" data-name="Rectangle 45064" width="1.667" height="1.667" transform="translate(32.5 27.5)" fill="#4dd0e1" stroke="#4dd0e1" stroke-width="0.5"/>
+        <rect id="Rectangle_45065" data-name="Rectangle 45065" width="1.667" height="1.667" transform="translate(35.833 27.5)" fill="#4dd0e1" stroke="#4dd0e1" stroke-width="0.5"/>
+        <rect id="Rectangle_45066" data-name="Rectangle 45066" width="1.667" height="1.667" transform="translate(39.167 27.5)" fill="#4dd0e1" stroke="#4dd0e1" stroke-width="0.5"/>
+        <rect id="Rectangle_45067" data-name="Rectangle 45067" width="3.333" height="1.667" transform="translate(31.667 24.167)" fill="#4dd0e1" stroke="#4dd0e1" stroke-width="0.5"/>
+        <rect id="Rectangle_45068" data-name="Rectangle 45068" width="3.333" height="1.667" transform="translate(37.5 24.167)" fill="#4dd0e1" stroke="#4dd0e1" stroke-width="0.5"/>
+        <rect id="Rectangle_45069" data-name="Rectangle 45069" width="15" height="1.667" transform="translate(25.833 30.833)" fill="#4dd0e1" stroke="#4dd0e1" stroke-width="0.5"/>
+        <rect id="Rectangle_45070" data-name="Rectangle 45070" width="15" height="1.667" transform="translate(25.833 34.167)" fill="#4dd0e1" stroke="#4dd0e1" stroke-width="0.5"/>
+        <rect id="Rectangle_45071" data-name="Rectangle 45071" width="15" height="1.667" transform="translate(25.833 37.5)" fill="#4dd0e1" stroke="#4dd0e1" stroke-width="0.5"/>
+        <rect id="Rectangle_45072" data-name="Rectangle 45072" width="1.667" height="1.667" transform="translate(8.333 42.5)" fill="#4dd0e1" stroke="#4dd0e1" stroke-width="0.5"/>
+        <rect id="Rectangle_45073" data-name="Rectangle 45073" width="1.667" height="1.667" transform="translate(11.667 42.5)" fill="#4dd0e1" stroke="#4dd0e1" stroke-width="0.5"/>
+        <rect id="Rectangle_45074" data-name="Rectangle 45074" width="1.667" height="1.667" transform="translate(15 42.5)" fill="#4dd0e1" stroke="#4dd0e1" stroke-width="0.5"/>
+        <rect id="Rectangle_45075" data-name="Rectangle 45075" width="22.5" height="1.667" transform="translate(18.333 42.5)" fill="#4dd0e1" stroke="#4dd0e1" stroke-width="0.5"/>
+      </g>
+    </g>
+  </g>
+</svg>
