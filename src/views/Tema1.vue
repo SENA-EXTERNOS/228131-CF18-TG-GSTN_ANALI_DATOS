@@ -13,7 +13,7 @@
     Separador
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 1.1  #[em Testing] y calidad de #[em software] 
-    p.mb-5(data-aos='fade-right') El testing y el aseguramiento de la calidad, también llamado #[em Quality Assurance] (QA), es un mecanismo para la verificación y validación de las funcionalidades de los programas o aplicaciones de #[em software] con el fin de ofrecer un producto sin defectos o errores.
+    p.mb-5(data-aos='fade-right') El #[em testing] y el aseguramiento de la calidad, también llamado #[em Quality Assurance] (QA), es un mecanismo para la verificación y validación de las funcionalidades de los programas o aplicaciones de #[em software] con el fin de ofrecer un producto sin defectos o errores.
     .tarjeta.mb-5.p-5(style="background-color: #f5fafe")
       SlyderA(tipo='b')
         .row.justify-content-center.mx-3
@@ -42,7 +42,7 @@
           .col-lg-6: img(src='@/assets/curso/temas/tema1/7.png', alt='')
         .row.justify-content-center.mx-3
           .col-lg-6
-            p Dentro de los procesos de testing se encuentran dos conceptos fundamentales: validación y verificación. Estos controlan que el software que se está desarrollando cumpla con las especificaciones y expectativas requeridas por el cliente. 
+            p Dentro de los procesos de #[em testing] se encuentran dos conceptos fundamentales: validación y verificación. Estos controlan que el software que se está desarrollando cumpla con las especificaciones y expectativas requeridas por el cliente. 
           .col-lg-6: img(src='@/assets/curso/temas/tema1/8.png', alt='')
         .row.justify-content-center.mx-3
           .col-lg-6
@@ -54,7 +54,7 @@
           .col-lg-6: img(src='@/assets/curso/temas/tema1/10.png', alt='')
         .row.justify-content-center.mx-3
           .col-lg-6
-            p Esto es la validación. Finalmente, cuando se construye la casa, se realizan constantes comprobaciones del plano para confirmar que está de acuerdo con lo planteado. Esto es la verificación.
+            p Esto es la #[b validación.] Finalmente, cuando se construye la casa, se realizan constantes comprobaciones del plano para confirmar que está de acuerdo con lo planteado. Esto es la #[b verificación.]
           .col-lg-6: img(src='@/assets/curso/temas/tema1/11.png', alt='')
         .row.justify-content-center.mx-3
           .col-lg-6
@@ -66,7 +66,7 @@
           .col-lg-6: img(src='@/assets/curso/temas/tema1/13.png', alt='')
         .row.justify-content-center.mx-3
           .col-lg-6
-            p En el proceso de #[em testing] se reportan los riesgos para que los desarrolladores los tengan en cuenta y se pueda minimizar la probabilidad de ocurrencia y disminución del impacto, de ahí que riesgos y testing estén relacionados. No hacer #[em testing] durante la construcción de un #[em software] genera vulnerabilidades para el alcance del proyecto.
+            p En el proceso de #[em testing] se reportan los riesgos para que los desarrolladores los tengan en cuenta y se pueda minimizar la probabilidad de ocurrencia y disminución del impacto, de ahí que riesgos y #[em testing] estén relacionados. No hacer #[em testing] durante la construcción de un #[em software] genera vulnerabilidades para el alcance del proyecto.
           .col-lg-6: img(src='@/assets/curso/temas/tema1/14.png', alt='')
         .row.justify-content-center.mx-3
           .col-lg-6
@@ -74,7 +74,7 @@
           .col-lg-6: img(src='@/assets/curso/temas/tema1/15.png', alt='')
         .row.justify-content-center.mx-3
           .col-lg-6
-            p Con ello se busca encontrar las causas de las fallas y corregirlas sin necesidad de ejecutar la totalidad del #[em software]. La depuración es realizada por los programadores y el #[em testing] por los #[em tester] o probadores de #[em software]; además, el testing expone la existencia de #[em bugs] o errores y la depuración encuentra las causas de las fallas para corregirlas. 
+            p Con ello se busca encontrar las causas de las fallas y corregirlas sin necesidad de ejecutar la totalidad del #[em software]. La depuración es realizada por los programadores y el #[em testing] por los #[em tester] o probadores de #[em software]; además, el #[em testing] expone la existencia de #[em bugs] o errores y la depuración encuentra las causas de las fallas para corregirlas. 
           .col-lg-6: img(src='@/assets/curso/temas/tema1/16.png', alt='')
     p.mb-5(data-aos='fade-right') El proceso de calidad de #[em software] garantiza productos con niveles de calidad y eficiencia adecuados para satisfacer las necesidades de los usuarios y minimizar los riesgos y las amenazas que generen impacto negativo.
     .row.justify-content-center.mb-5
@@ -114,7 +114,7 @@
     .row.justify-content-center.mb-5
       .col-lg-2.col-6(data-aos="fade-right"): img(src='@/assets/curso/temas/tema1/18.svg', alt='')
       .col-lg-10(data-aos="fade-left")
-        p Los principios de las pruebas sumado con métodos, estándares y herramientas maximizan el performance en la labor del testing, debido a que permiten el diseño de casos de pruebas, la ejecución de pruebas exploratorias y automáticas, entre otras utilidades. A continuación, se describen una serie de principios que fortalecen la actividad de pruebas de software:
+        p Los principios de las pruebas sumado con métodos, estándares y herramientas maximizan el performance en la labor del #[em testing], debido a que permiten el diseño de casos de pruebas, la ejecución de pruebas exploratorias y automáticas, entre otras utilidades. A continuación, se describen una serie de principios que fortalecen la actividad de pruebas de software:
     .row.justify-content-center.mb-5
       .col-lg-4.d-none.d-lg-block: img(src='@/assets/curso/temas/tema1/19.png', alt='')
       .col-lg-8 
@@ -127,7 +127,7 @@
               br
               |En razón a lo expuesto, es conveniente en la etapa de diseño y estructuración de las pruebas de software tener en cuenta la relación de costo/beneficio, sin dejar de enfocarse en verificar las funcionalidades más importantes y de gran impacto para el proyecto.   
           div(titulo='Probar en etapas tempranas')
-            p El proceso de testing debe ser paralelo a las fases del desarrollo del software, por lo tanto, realizar pruebas tempranas, preferiblemente en la etapa de análisis y diseño, resulta muy ventajoso porque permite la detección de errores cuando los costos y recursos para su subsanación son bajos en comparación a si se detectan en fases finales, como en la fase de despliegue.
+            p El proceso de #[em testing] debe ser paralelo a las fases del desarrollo del software, por lo tanto, realizar pruebas tempranas, preferiblemente en la etapa de análisis y diseño, resulta muy ventajoso porque permite la detección de errores cuando los costos y recursos para su subsanación son bajos en comparación a si se detectan en fases finales, como en la fase de despliegue.
           div(titulo='Agrupación de fallas')
             p Con frecuencia existen módulos o funcionalidades que tienden a presentar más fallas o #[em bugs] que otros. Estos módulos por lo general se agrupan de acuerdo con la regla 80/20, donde se establece que el 80 % de los bugs están relacionados con el 20 % de las mismas causas; es decir, los módulos de un #[em software] están caracterizados por un nivel de relevancia, que permite aplicar estrategias de pruebas para un determinado grupo y priorizar los módulos etiquetados con altas probabilidades de presentar #[em bugs]. 
           div(titulo='Paradoja del pesticida')
@@ -168,7 +168,7 @@
         .row.align-items-center.justify-content-center
           .col-md-7.mb-4.mb-md-0: img(src='@/assets/curso/temas/tema1/24.svg', alt='')
           .col-md-5
-            p Con la aplicación de metodologías ágiles los tester tienen la posibilidad de generar alertas sobre los #[em bugs] casi en tiempo real y con ello se evitan fallas mayores cuando el producto esté más completo.
+            p Con la aplicación de metodologías ágiles los #[em tester] tienen la posibilidad de generar alertas sobre los #[em bugs] casi en tiempo real y con ello se evitan fallas mayores cuando el producto esté más completo.
       .py-4.py-md-5(titulo="Aumentar la <br> satisfacción del cliente")
         .row.align-items-center.justify-content-center
           .col-md-8.mb-4.mb-md-0: img(src='@/assets/curso/temas/tema1/25.svg', alt='')
@@ -231,20 +231,16 @@
           br
           |El propósito principal de la metodología Scrum es la satisfacción de las necesidades de los clientes, basándose en los principios de transparencia, avances permanentes y responsabilidad de equipo. A diferencia de otras metodologías ágiles tienen varios roles para lograr entregas y resultados inmediatos. 
       div(titulo='Roles del equipo SCRUM')
-        p Es la metodología ágil más popular y empleada en el desarrollo de #[em software]. Está construida por procesos iterativos que se separan en fases regulares que se van incrementado de forma periódica.
-          br
-          br
-          |El propósito principal de la metodología Scrum es la satisfacción de las necesidades de los clientes, basándose en los principios de transparencia, avances permanentes y responsabilidad de equipo. A diferencia de otras metodologías ágiles tienen varios roles para lograr entregas y resultados inmediatos. 
         ul.lista-ul--color
           li
             i.fas.fa-angle-right(style='color: #0f2771')
-            p.mb-0 Dueño del producto o cliente: este rol es el responsable de entregar los requisitos del sistema, además tiene la función de priorizar los pendientes durante el desarrollo del producto y presentar comentarios para mejorar la calidad del software.
+            p.mb-0 #[b Dueño del producto o cliente:] este rol es el responsable de entregar los requisitos del sistema, además tiene la función de priorizar los pendientes durante el desarrollo del producto y presentar comentarios para mejorar la calidad del software.
           li
             i.fas.fa-angle-right(style='color: #0f2771')
-            p.mb-0 Scrum Máster:  el rol de Scrum Máster se encarga de entrenar y ayudar al equipo de desarrollo a permanecer centrado en las metas del proyecto. También elimina los impedimentos que surgen en el proceso para garantizar que los objetivos establecidos se lleven a cabo.
+            p.mb-0 #[b Scrum Máster:]  el rol de Scrum Máster se encarga de entrenar y ayudar al equipo de desarrollo a permanecer centrado en las metas del proyecto. También elimina los impedimentos que surgen en el proceso para garantizar que los objetivos establecidos se lleven a cabo.
           li
             i.fas.fa-angle-right(style='color: #0f2771')
-            p.mb-0 Equipo de desarrollo:  es el grupo de especialistas que cuenta con las habilidades necesarias para ejecutar el proyecto y alcanzar las metas propuestas en cada uno de los sprint.
+            p.mb-0 #[b Equipo de desarrollo:]  es el grupo de especialistas que cuenta con las habilidades necesarias para ejecutar el proyecto y alcanzar las metas propuestas en cada uno de los sprint.
     .row.justify-content-center.mb-5
       .col-lg-10(data-aos="zoom-in")
         .bloque-derecha
@@ -253,10 +249,10 @@
               :style="{'background-image':`url(${require('@/assets/curso/temas/tema1/26.svg')})`}"
             )
             .bloque-texto-g__texto.p-4.w-75
-              p.mb-0 Los roles descritos dentro de la metodología Scrum se pueden entender de mejor forma con una analogía de la vida cotidiana, donde se tiene un auto de carreras que es el equipo de desarrollo. El cliente es el conductor que acelera y determina la orientación y destino y el Scrum Master es el mecánico que realiza los mantenimientos y ajustes para que funcione correctamente.
+              p.mb-0 Los roles descritos dentro de la metodología #[em Scrum] se pueden entender de mejor forma con una analogía de la vida cotidiana, donde se tiene un auto de carreras que es el equipo de desarrollo. El cliente es el conductor que acelera y determina la orientación y destino y el Scrum Master es el mecánico que realiza los mantenimientos y ajustes para que funcione correctamente.
                 br
                 br
-                |Fases de la metodología Scrum:
+                |Fases de la metodología #[em Scrum:]
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.col-6(data-aos="fade-right"): img(src='@/assets/curso/temas/tema1/27.png', alt='')
       .col-lg-8(data-aos="fade-left")
@@ -361,7 +357,7 @@
     .row.justify-content-center.mb-5
       .col-lg-2.col-6(data-aos="fade-right"): img(src='@/assets/curso/temas/tema1/37.svg', alt='')
       .col-lg-10 
-        p Una prueba ágil es una práctica del #[em testing] de #[em software] donde se siguen los fundamentos del desarrollo ágil y se busca que las pruebas se adapten a la organización. En este enfoque se integran los roles del equipo de trabajo y se adiciona el rol de tester, el cual tiene como propósito la ejecución de las pruebas de software para la verificación de los requisitos que solicita el cliente.
+        p Una prueba ágil es una práctica del #[em testing] de #[em software] donde se siguen los fundamentos del desarrollo ágil y se busca que las pruebas se adapten a la organización. En este enfoque se integran los roles del equipo de trabajo y se adiciona el rol de #[em tester], el cual tiene como propósito la ejecución de las pruebas de software para la verificación de los requisitos que solicita el cliente.
           br
           br
           |Las pruebas ágiles se basan en los siguientes principios:
@@ -370,7 +366,7 @@
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema1/38.svg' alt='AvatarTop')
-        h5.text-center Testing continuo
+        h5.text-center #[em Testing] continuo
         p.text-center.mb-0 Se deben realizar pruebas constantes para garantizar la calidad del #[em software] a través de cada uno de los ciclos de entrega.
       .tarjeta.box-shadow.p-4.mb-5.h-100
         .row.justify-content-center.mb-3

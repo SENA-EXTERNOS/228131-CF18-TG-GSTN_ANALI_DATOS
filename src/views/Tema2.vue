@@ -21,7 +21,7 @@
     .row.justify-content-center.mb-5
       .col-lg-2.col-6(data-aos="fade-right"): img(src='@/assets/curso/temas/tema2/2.svg', alt='')
       .col-lg-10(data-aos="fade-left")
-        p Criterio de clasificación que se basa en el conocimiento interno que tiene el tester sobre la aplicación, por lo tanto, es necesario que tenga habilidades de programación y conozca a detalle la estructura del diseño del software. Este tipo de pruebas se dividen en: de caja negra, de caja blanca y de caja gris.
+        p Criterio de clasificación que se basa en el conocimiento interno que tiene el #[em tester] sobre la aplicación, por lo tanto, es necesario que tenga habilidades de programación y conozca a detalle la estructura del diseño del #[em software ]. Este tipo de pruebas se dividen en: de caja negra, de caja blanca y de caja gris.
     TabsB.color-acento-contenido.mb-5
       .p-4.py-md-5(titulo="Pruebas de <br> caja negra" :icono="require('@/assets/curso/temas/tema2/6.svg')")
         .row
@@ -51,7 +51,7 @@
           div(titulo='Pruebas de progresión')
             p Las pruebas de progresión son las que buscan probar nuevas funcionalidades, es decir se centran en lo que no tenía el #[em software] en las versiones anteriores y garantizan la calidad del desarrollo del #[em software] que se está construyendo o también llamado reléase. 
           div(titulo='<em> Testing</em> exploratorio')
-            p Ofrece mayor flexibilidad al tester, debido a que permite libertad de probar y explorar nuevos escenarios que surgen de su innovación. Este estilo o enfoque promueve el aprendizaje para la optimización continua de las pruebas. Por lo general, se generan nuevas pruebas a medida que se va probando el #[em software.]
+            p Ofrece mayor flexibilidad al #[em tester], debido a que permite libertad de probar y explorar nuevos escenarios que surgen de su innovación. Este estilo o enfoque promueve el aprendizaje para la optimización continua de las pruebas. Por lo general, se generan nuevas pruebas a medida que se va probando el #[em software.]
           div(titulo='<em>Testing</em> de humo')
             p El #[em testing] de humo y sanidad son pruebas rápidas que se realizan en la etapa inicial del plan de pruebas para verificar con prontitud que la aplicación sea pertinente en sus salidas y asegurar que los requerimientos prioritarios se cumplan o no.
     Separador
@@ -60,7 +60,7 @@
     .row.justify-content-center.mb-5
       .col-lg-2.col-6(data-aos="fade-right"): img(src='@/assets/curso/temas/tema2/10.svg', alt='')
       .col-lg-10(data-aos="fade-left")
-        p Las pruebas según el nivel están clasificadas de acuerdo con las etapas del diseño del desarrollo del software, es decir, desde el análisis hasta el despliegue. En este tipo de pruebas las etapas están asociadas y colaboran entre sí para garantizar el éxito de estas. 
+        p Las pruebas según el nivel están clasificadas de acuerdo con las etapas del diseño del desarrollo del #[em software ], es decir, desde el análisis hasta el despliegue. En este tipo de pruebas las etapas están asociadas y colaboran entre sí para garantizar el éxito de estas. 
           br
           br
           |Dentro de las pruebas por nivel se encuentran por: componente, integración y sistema. A continuación, se detallan cada una de ellas. 
@@ -70,13 +70,13 @@
           .col-md-6.mb-4.mb-md-0
             p También llamadas pruebas unitarias, son las que aseguran el correcto funcionamiento por separado de un módulo, una función, un método o una clase del sistema. Este tipo de pruebas son ejecutadas por el desarrollador que termina de construir esa parte pequeña de la aplicación y se caracterizan por la rapidez en la corrección de los errores, ya que siendo el mismo desarrollador quien las ejecuta, se corrigen en los tiempos de desarrollo. 
           .col-md-3: img(src='@/assets/curso/temas/tema2/11.svg', alt='')
-        .row.justify-content-between(titulo="Testing de <br> integración")
+        .row.justify-content-between(titulo="<em>Testing </em> de <br> integración")
           .col-md-4.mb-4.mb-md-0
-            p Comprueba que las interfaces entre los módulos se comuniquen correctamente. Este tipo de pruebas las realizan tanto desarrolladores como los tester y son de gran importancia para lograr un sistema funcional y completo.
+            p Comprueba que las interfaces entre los módulos se comuniquen correctamente. Este tipo de pruebas las realizan tanto desarrolladores como los #[em tester] y son de gran importancia para lograr un sistema funcional y completo.
           .col-md-3: img(src='@/assets/curso/temas/tema2/12.svg', alt='')
         .row.justify-content-center(titulo="Pruebas de <br> sistema")
           .col-md-6.mb-4.mb-md-0
-            p Son las más generales porque se centran en verificar que la aplicación funcione en su totalidad y cumpla con los requisitos establecidos por el cliente. Este tipo de pruebas son realizadas mayormente por el tester y en menor medida por el usuario final. se pueden incluir dentro del testing de caja negra.
+            p Son las más generales porque se centran en verificar que la aplicación funcione en su totalidad y cumpla con los requisitos establecidos por el cliente. Este tipo de pruebas son realizadas mayormente por el #[em tester] y en menor medida por el usuario final. se pueden incluir dentro del #[em testing] de caja negra.
           .col-md-3: img(src='@/assets/curso/temas/tema2/13.svg', alt='')
     Separador 
     #t_2_4.titulo-segundo.color-acento-contenido(data-aos='fade-right')
@@ -90,7 +90,7 @@
               img(src="@/assets/curso/temas/tema2/14.jpg", alt="alt")
           .crd_hover_txt--body.w-100
             h4.mb-3.text-center Pruebas funcionales
-            p.mb-0 Se realizan cuando se requiere verificar que los elementos críticos del negocio se ajustan con las funcionalidades del software y operan de acuerdo con lo esperado, sin presentar errores. Por lo tanto, las pruebas funcionales se definen a partir de lo que el sistema debe hacer, por ejemplo, el software debe imprimir una factura al final de la venta. 
+            p.mb-0 Se realizan cuando se requiere verificar que los elementos críticos del negocio se ajustan con las funcionalidades del #[em software] y operan de acuerdo con lo esperado, sin presentar errores. Por lo tanto, las pruebas funcionales se definen a partir de lo que el sistema debe hacer, por ejemplo, el #[em software ] debe imprimir una factura al final de la venta. 
               br
               br
               |Con este tipo de pruebas se pueden revisar los elementos con los que el usuario tiene algún tipo de interacción. Dentro de las pruebas funcionales se encuentran: las unitarias, las de integración, las de regresión, las de sistema, las de sanidad, entre otras.
@@ -101,7 +101,7 @@
               img(src="@/assets/curso/temas/tema2/15.jpg", alt="alt")
           .crd_hover_txt--body.w-100
             h4.mb-3.text-center Pruebas no funcionales 
-            p.mb-0 Son atributos de la calidad que se encargan de verificar requisitos cuando el software está en operación y no sus funcionalidades. Con estas pruebas se mide cuáles son los límites o capacidad que soporta la aplicación, el rendimiento que tiene con altas cargas de trabajo, su escalabilidad y portabilidad entre otras.
+            p.mb-0 Son atributos de la calidad que se encargan de verificar requisitos cuando el #[em software ] está en operación y no sus funcionalidades. Con estas pruebas se mide cuáles son los límites o capacidad que soporta la aplicación, el rendimiento que tiene con altas cargas de trabajo, su escalabilidad y portabilidad entre otras.
 
 
 
@@ -113,7 +113,7 @@
 
 
 
-    p.mb-5(data-aos='fade-right') A continuación, se describen las clases de pruebas no funcionales más utilizadas en el testing de software.
+    p.mb-5(data-aos='fade-right') A continuación, se describen las clases de pruebas no funcionales más utilizadas en el #[em testing ] de #[em software ].
     .row.justify-content-center.mb-5
       .col-lg-4.d-none.d-lg-block(data-aos="fade-right"): img(src='@/assets/curso/temas/tema2/16.png', alt='')
       .col-lg-8(data-aos="fade-left")
@@ -129,7 +129,7 @@
           div(titulo='Usabilidad')
             p Se centran en la facilidad de la aplicación para su aprendizaje y uso. Estas clases de pruebas son muy complejas debido a la subjetividad, ya que dependen de la percepción de cada usuario del sistema y, por lo tanto, no hay criterio unificado en los resultados.
           div(titulo='Accesibilidad')
-            p Estas pruebas pretenden que el sistema sea usado por todos los usuarios independientemente de sus habilidades técnicas, físicas o cognitivas. Por ejemplo, en el diseño software se debe tener especial cuidado y pensar en los posibles usuarios daltónicos para que las interfaces no incluyan colores que sean confusos para ellos.  
+            p Estas pruebas pretenden que el sistema sea usado por todos los usuarios independientemente de sus habilidades técnicas, físicas o cognitivas. Por ejemplo, en el diseño #[em software ] se debe tener especial cuidado y pensar en los posibles usuarios daltónicos para que las interfaces no incluyan colores que sean confusos para ellos.  
     p.mb-5(data-aos='fade-right') Para reforzar el aprendizaje de este tema, se recomienda ver el siguiente video
     figure.mb-5
       .video
@@ -144,7 +144,7 @@
               :style="{'background-image':`url(${require('@/assets/curso/temas/tema2/17.svg')})`}"
             )
             .bloque-texto-g__texto.p-4.w-75
-              p.mb-0 Una estrategia de pruebas de software agrupa los métodos de elaboración de los casos de pruebas en una sucesión de pasos bien definidos para construir una aplicación correctamente. Los procesos de verificación y validación del producto tienen como hoja de ruta las estrategias de pruebas (Solarte, 2019)
+              p.mb-0 Una estrategia de pruebas de #[em software ] agrupa los métodos de elaboración de los casos de pruebas en una sucesión de pasos bien definidos para construir una aplicación correctamente. Los procesos de verificación y validación del producto tienen como hoja de ruta las estrategias de pruebas (Solarte, 2019)
     p.mb-5(data-aos='fade-right') En las estrategias de pruebas se tiene en cuenta que:
     .row.justify-content-center.mb-5
       .col-lg-5.col-6(data-aos="fade-right"): img(src='@/assets/curso/temas/tema2/18.png', alt='')
@@ -152,26 +152,26 @@
         ul.lista-ul--color
           li
             i.fas.fa-angle-right(style='color: #0f2771')
-            p.mb-0 Las pruebas inician desde el interior hacia afuera, comenzando con la verificación de los módulos o métodos y finalizando con la validación de los requisitos y funcionalidades del software.
+            p.mb-0 Las pruebas inician desde el interior hacia afuera, comenzando con la verificación de los módulos o métodos y finalizando con la validación de los requisitos y funcionalidades del #[em software ].
           li
             i.fas.fa-angle-right(style='color: #0f2771')
-            p.mb-0 Es pertinente que en los puntos críticos del software se realicen distintos casos de pruebas que permitan garantizar la calidad de este. 
+            p.mb-0 Es pertinente que en los puntos críticos del #[em software ] se realicen distintos casos de pruebas que permitan garantizar la calidad de este. 
           li
             i.fas.fa-angle-right(style='color: #0f2771')
-            p.mb-0 El testing se debe realizar por los especialistas que construyen el software o por los equipos de tester que integran el proyecto.
+            p.mb-0 El #[em testing ] se debe realizar por los especialistas que construyen el #[em software ] o por los equipos de #[em tester] que integran el proyecto.
           li
             i.fas.fa-angle-right(style='color: #0f2771')
-            p.mb-0 El testing y la depuración son procesos para encontrar bugs y corregirlos, sin embargo, la depuración se ejecuta por el desarrollador en tiempo de codificación del software y el testing, además de contener estas pruebas, abarca todas las verificaciones y validaciones del producto.
+            p.mb-0 El #[em testing ] y la depuración son procesos para encontrar bugs y corregirlos, sin embargo, la depuración se ejecuta por el desarrollador en tiempo de codificación del #[em software ] y el #[em testing ], además de contener estas pruebas, abarca todas las verificaciones y validaciones del producto.
           li
             i.fas.fa-angle-right(style='color: #0f2771')
-            p.mb-0 Están formadas por pruebas de bajo nivel y alto nivel, donde las de bajo nivel se relacionan con el código fuente y las de alto nivel con las funcionalidades del software. 
+            p.mb-0 Están formadas por pruebas de bajo nivel y alto nivel, donde las de bajo nivel se relacionan con el código fuente y las de alto nivel con las funcionalidades del #[em software ]. 
     .row.justify-content-center.mb-5
       .col-lg-10(data-aos="zoom-in")
         .tarjeta(style=" border: 3px solid #f6f6f6 ").p-5
           .row.justify-content-center.align-items-center
             .col-lg-2.col-5: img(src='@/assets/curso/temas/tema2/19.svg', alt='')
             .col-lg-10
-              p Para reforzar los conceptos sobre este tema, se recomienda leer el artículo Ontología para transferir conocimiento en la etapa de pruebas de software (Casanova, Rozo & Pollo, 2020). 
+              p Para reforzar los conceptos sobre este tema, se recomienda leer el artículo Ontología para transferir conocimiento en la etapa de pruebas de #[em software ] (Casanova, Rozo & Pollo, 2020). 
               a.anexo.mb-4.mb-lg-0.d-inline-block(href="https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_biblioteca_eniDPT3SCRU" target="_blank")
                 .anexo__icono
                   img(src="@/assets/template/icono-link.svg")

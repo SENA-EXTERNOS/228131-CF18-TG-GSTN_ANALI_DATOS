@@ -11,7 +11,14 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
           h2 Pruebas y calidad de #[em software]
-        p.mb-4 Este recorrido introductorio sobre la administración, proporciona conceptos claves de aplicación para la práctica empresarial y organizacional; por esta razón es importante realizar un repaso sobre los principales temas abordados, con la intención de afianzar y reforzar al aprendiz.
+        p.mb-4 Apreciado aprendiz a continuación se encuentra una actividad para afianzar los conceptos y aprendizajes del componente de formación sobre Pruebas y Calidad de Software.
+          br
+          br
+          |Antes de su realización, se recomienda la lectura de este componente formativo. Esta actividad no es calificable  y puede realizarse todas las veces que requiera para afianzar el conocimiento.
+          br
+          br
+          |Lea atentamente las preguntas y seleccione, para cada una de ellas, la respuesta que considere correcta, entre las opciones que se presentan.
+
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0

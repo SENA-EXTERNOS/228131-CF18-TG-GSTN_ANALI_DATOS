@@ -204,4 +204,7 @@ export default {
 }
 </script>
 
-<style lang="sass"></style>
+<style lang="sass">
+.linea-tiempo-d__item--selected .linea-tiempo-d__item__content__title, .linea-tiempo-d__item__content__slot
+  background-color: #d2f3f7
+</style>
