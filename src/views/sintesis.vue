@@ -3,11 +3,8 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p En el siguiente mapa se exponen las relaciones de los temas trabajados con los conceptos básicos de “pruebas y calidad de software”.
-    .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-      h5 Figura 5
-      br
-      span.fst-italic Pruebas y calidad de software
+    p El siguiente mapa integra los criterios y especificidades de los conocimientos expuestos en el presente componente formativo.
+
 
     .row.justify-content-center
       .col-lg-10.mb-5

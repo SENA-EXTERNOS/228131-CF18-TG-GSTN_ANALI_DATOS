@@ -11,10 +11,10 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
           h2 Pruebas y calidad de #[em software]
-        p.mb-4 Apreciado aprendiz a continuación se encuentra una actividad para afianzar los conceptos y aprendizajes del componente de formación sobre Pruebas y Calidad de Software.
+        p.mb-4 Apreciado aprendiz, a continuación se encuentra una actividad para afianzar los conceptos y aprendizajes del componente de formación sobre Pruebas y Calidad de <i>Software</i>.
           br
           br
-          |Antes de su realización, se recomienda la lectura de este componente formativo. Esta actividad no es calificable  y puede realizarse todas las veces que requiera para afianzar el conocimiento.
+          |Antes de su realización, se recomienda la lectura de este componente formativo. Esta actividad no es calificable y puede realizarse todas las veces que se requiera para afianzar el conocimiento.
           br
           br
           |Lea atentamente las preguntas y seleccione, para cada una de ellas, la respuesta que considere correcta, entre las opciones que se presentan.
