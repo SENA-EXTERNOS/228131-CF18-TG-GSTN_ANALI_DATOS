@@ -35,7 +35,7 @@
       .p-4.py-md-5(titulo="Pruebas de <br> caja gris" :icono="require('@/assets/curso/temas/tema2/8.svg')")
         .row
           .col-md-8.mb-4.mb-md-0
-            p Son las que se ejecutan con información parcial de la estructura del programa, ya que habrá ocasiones donde no se cuenta con acceso al código fuente, pero si a la base de datos y viceversa.  
+            p Son las que se ejecutan con información parcial de la estructura del programa, ya que habrá ocasiones donde no se cuenta con acceso al código fuente, pero sí a la base de datos y viceversa.  
           .col-md-4: img(src='@/assets/curso/temas/tema2/5.png', alt='')
     
     h2.mb-5 Pruebas según su finalidad

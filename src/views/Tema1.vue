@@ -170,7 +170,7 @@
             p La comunicación permanente entre los desarrolladores y el cliente es percibida como un factor de compromiso con la finalización del proyecto de <i>software</i>. En efecto, cuando se brinda la opción para que el cliente realice retroalimentación constante, en pro de las mejoras, el <i>software</i> estará respondiendo a sus necesidades.
     p.mb-5(data-aos='fade-right') Existen metodologías ágiles cada una con un enfoque particular, sin embargo, todas comparten las ventajas antes mencionadas. A continuación, se exponen algunas de las metodologías más populares y usadas por las organizaciones que se dedican al desarrollo de <i>software</i>. 
     AcordionA.mb-5(tipo="b" clase-tarjeta="tarjeta ")
-      div(titulo='<i>Extreme Programing</i> o programación extrema')
+      div(titulo='<i>Extreme Programming</i> o programación extrema')
         p Metodología también conocida como XP, consiste en la agrupación de reglas que generan agilidad y resiliencia a las organizaciones en la ejecución de los proyectos de <i>software</i>, en contextos que son muy variables. Por lo tanto, cuando se aplica una metodología ágil XP, se establece como prioridad la entrega del <i>software</i> final, de conformidad con los requerimientos exactos del cliente.
           br
           br

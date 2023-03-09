@@ -142,7 +142,7 @@ export default {
     {
       termino: '<em> Debugging</em>',
       significado:
-        'proceso que implanta puntos de interrupción o <i>breakpoint</i>, para analizar el estado del software en una parte dada del código.',
+        'proceso que implanta puntos de interrupción o <i>breakpoint</i>, para analizar el estado del <i>software</i> en una parte dada del código.',
     },
     {
       termino: 'Programación extrema',
