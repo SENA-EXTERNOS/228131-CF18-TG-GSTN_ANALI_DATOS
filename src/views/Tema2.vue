@@ -67,8 +67,8 @@
           .col-md-6.mb-4.mb-md-0
             p También llamadas pruebas unitarias, son las que aseguran el correcto funcionamiento por separado de un módulo, una función, un método o una clase del sistema. Este tipo de pruebas son ejecutadas por el desarrollador que termina de construir esa parte pequeña de la aplicación y se caracterizan por la rapidez en la corrección de los errores, porque siendo el mismo desarrollador quien las ejecuta, se corrigen en los tiempos de este proceso.  
           .col-md-3: img(src='@/assets/curso/temas/tema2/11.svg', alt='')
-        .row.justify-content-between(titulo="<em>Testing </em> de <br> integración")
-          .col-md-4.mb-4.mb-md-0
+        .row.justify-content-center(titulo="<em>Testing </em> de <br> integración")
+          .col-md-6.mb-4.mb-md-0
             p Comprueba que las interfaces entre los módulos se comuniquen correctamente. Este tipo de pruebas las realizan tanto desarrolladores como los <i>testers</i> y son de gran importancia para lograr un sistema funcional y completo.
           .col-md-3: img(src='@/assets/curso/temas/tema2/12.svg', alt='')
         .row.justify-content-center(titulo="Pruebas de <br> sistema")

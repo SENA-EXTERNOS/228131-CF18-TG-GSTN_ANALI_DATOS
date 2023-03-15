@@ -42,7 +42,7 @@
           .col-lg-6: img(src='@/assets/curso/temas/tema1/7.png', alt='')
         .row.justify-content-center.mx-3
           .col-lg-6
-            p Dentro de los procesos de <i>testing</i>, se encuentran dos conceptos fundamentales: <b>validación</b> y <b>verificación</b>. Estos controlan que el software que se está desarrollando, cumpla con las especificaciones y expectativas requeridas por el cliente. 
+            p Dentro de los procesos de <i>testing</i>, se encuentran dos conceptos fundamentales: <b>validación</b> y <b>verificación</b>. Estos controlan que el <i>software</i> que se está desarrollando, cumpla con las especificaciones y expectativas requeridas por el cliente. 
           .col-lg-6: img(src='@/assets/curso/temas/tema1/8.png', alt='')
         .row.justify-content-center.mx-3
           .col-lg-6
@@ -82,7 +82,8 @@
         ImagenInfograficaB.color-acento-botones.mb-5
           template(v-slot:imagen)
             figure
-              img(src='@/assets/curso/temas/tema1/17-.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema1/17.svg', alt='Texto que describa la imagen')
+            figcaption Nota. Adaptado de Tordecilla, D. (2022). 
 
           div(x="21.8%" y="19%" tooltip="Abrir" numero="" )
             h4 Reporte de resultados
@@ -94,7 +95,7 @@
             h4 Entorno de pruebas
             p El entorno de pruebas es el escenario donde se realizan las pruebas. 
               br
-              |Debido a la diversidad de los tipos de aplicaciones pueden existir entornos web,  de escritorio, móviles entre otros.
+              |Debido a la diversidad de los tipos de aplicaciones pueden existir entornos web,  de escritorio, móviles, entre otros.
           div(x="90.5%" y="56.2%" tooltip="Abrir" numero="" )
             h4 Requerimientos
             p Los requerimientos de #[em software] son una descripción detallada del comportamiento del #[em software], es decir, lo que el usuario espera que haga. Son reglas que siguen los desarrolladores para crear el producto final  y satisfacer las necesidades de los usuarios.
@@ -109,7 +110,7 @@
     .row.justify-content-center.mb-5
       .col-lg-2.col-6(data-aos="fade-right"): img(src='@/assets/curso/temas/tema1/18.svg', alt='')
       .col-lg-10(data-aos="fade-left")
-        p Los principios de las pruebas sumados con métodos, estándares y herramientas, maximizan el performance en la labor del <i>testing</i>, debido a que permiten el diseño de casos de pruebas, la ejecución de pruebas exploratorias y automáticas, entre otras utilidades. A continuación, se describe una serie de principios que fortalecen la actividad de pruebas de <i>software</i>:
+        p Los principios de las pruebas sumados con métodos, estándares y herramientas, maximizan el <i>performance</i> en la labor del <i>testing</i>, debido a que permiten el diseño de casos de pruebas, la ejecución de pruebas exploratorias y automáticas, entre otras utilidades. A continuación, se describe una serie de principios que fortalecen la actividad de pruebas de <i>software</i>:
     .row.justify-content-center.mb-5
       .col-lg-4.d-none.d-lg-block: img(src='@/assets/curso/temas/tema1/19.png', alt='')
       .col-lg-8 
@@ -117,10 +118,10 @@
           div(titulo='Ejecutar pruebas expone las fallas del <i>software</i>')
             p Las pruebas permiten exponer la presencia de fallas en un #[em software], pero no la falta de ellas. Después del reporte de una falla y su sucesiva subsanación, es posible minimizar la probabilidad de que las fallas que no han sido encontradas permanezcan en el #[em software], sin embargo, no se podrá confirmar que un producto está libre de errores. 
           div(titulo='Realizar pruebas exhaustivas no es viable')
-            p Con excepción de casos particulares, donde el riesgo de la materialización de una falla tiene un impacto vital, la realización de todas las posibilidades de los datos y funciones de un software, comúnmente no es práctico, debido a los altos costos en recursos y tiempo. 
+            p Con excepción de casos particulares, donde el riesgo de la materialización de una falla tiene un impacto vital, la realización de todas las posibilidades de los datos y funciones de un <i>software</i>, comúnmente no es práctico, debido a los altos costos en recursos y tiempo. 
             br
             br
-            p En razón a lo expuesto, es conveniente en la etapa de diseño y estructuración de las pruebas de software, tener en cuenta la relación de costo/beneficio, sin dejar de enfocarse en verificar las funcionalidades más importantes y de gran impacto para el proyecto.  
+            p En razón a lo <i>software</i>, es conveniente en la etapa de diseño y estructuración de las pruebas de <i>software</i>, tener en cuenta la relación de costo/beneficio, sin dejar de enfocarse en verificar las funcionalidades más importantes y de gran impacto para el proyecto.  
           div(titulo='Probar en etapas tempranas')
             p El proceso de <i>testing</i> debe ser paralelo a las fases del desarrollo del <i>software</i>, por lo tanto, realizar pruebas tempranas, preferiblemente en la etapa de análisis y diseño, resulta muy ventajoso porque permite la detección de errores cuando los costos y recursos para su rectificación, son bajos en comparación, de si se detectan en fases finales, como en la fase de despliegue.
           div(titulo='Agrupación de fallas')
@@ -143,7 +144,7 @@
     .row.justify-content-center.mb-5
       .col-lg-4.col-6(data-aos="fade-right"): img(src='@/assets/curso/temas/tema1/21.svg', alt='')
       .col-lg-8
-        p La metodología de desarrollo de <i>software</i> ágil emerge por el alto volumen de trabajo que tienen las áreas encargadas de codificar y el escaso tiempo para entregar a producción las aplicaciones. Teniendo en cuenta estos factores, la metodología ágil responde de mejor manera a las necesidades del mercado y supera a los métodos tradicionales como la metodología en cascada, donde las entregas son lentas debido a que se sigue un flujo de fase a fase para finalmente llevar un producto a producción. (Ramos, et al., 2022)
+        p La metodología de desarrollo de <i>software</i> ágil emerge por el alto volumen de trabajo que tienen las áreas encargadas de codificar y el escaso tiempo para entregar a producción las aplicaciones. Teniendo en cuenta estos factores, la metodología ágil responde de mejor manera a las necesidades del mercado y supera a los métodos tradicionales como la metodología en cascada, donde las entregas son lentas debido a que se sigue un flujo de fase a fase para finalmente llevar un producto a producción. (Ramos, <i>et al.</i>, 2022)
           br
           br
           |La implementación de metodologías ágiles, además de satisfacer al cliente con entregas tempranas, tiene las siguientes ventajas:   
@@ -223,7 +224,7 @@
         p Es la metodología ágil más popular y empleada en el desarrollo de <i>software</i>. Está construida por procesos iterativos que se separan en fases regulares que se van incrementado de forma periódica.
           br
           br
-          |El propósito principal de la metodología Scrum es la satisfacción de las necesidades de los clientes, basándose en los principios de transparencia, avances permanentes y responsabilidad de equipo. A diferencia de otras metodologías ágiles tiene varios roles para lograr entregas y resultados inmediatos.  
+          |El propósito principal de la metodología <i>Scrum</i> es la satisfacción de las necesidades de los clientes, basándose en los principios de transparencia, avances permanentes y responsabilidad de equipo. A diferencia de otras metodologías ágiles tiene varios roles para lograr entregas y resultados inmediatos.  
       div(titulo='Roles del equipo <i>Scrum</i>')
         ul.lista-ul--color
           li
@@ -244,7 +245,7 @@
               :style="{'background-image':`url(${require('@/assets/curso/temas/tema1/26.svg')})`}"
             )
             .bloque-texto-g__texto.p-4.w-75
-              p.mb-0 Los roles descritos dentro de la metodología Scrum se pueden entender de mejor forma con una analogía de la vida cotidiana, donde se tiene un auto de carreras que es el equipo de desarrollo. El cliente es el conductor que acelera y determina la orientación y destino, y el <i>Scrum Master</i> es el mecánico que realiza los mantenimientos y ajustes para que funcione correctamente.
+              p.mb-0 Los roles descritos dentro de la metodología <i>Scrum</i> se pueden entender de mejor forma con una analogía de la vida cotidiana, donde se tiene un auto de carreras que es el equipo de desarrollo. El cliente es el conductor que acelera y determina la orientación y destino, y el <i>Scrum Master</i> es el mecánico que realiza los mantenimientos y ajustes para que funcione correctamente.
                 br
                 br
                 |Fases de la metodología <i>Scrum</i>:
@@ -256,34 +257,34 @@
             .row.justify-content-center.mb-3
               .col-8
                 img(src='@/assets/curso/temas/tema1/28.svg' alt='AvatarTop')
-            h5.text-center Sprint:
-            p.text-center son lapsos de tiempo, por lo general de dos a cuatro semanas, que se imponen para cumplir con las metas propuestas. 
+            h5.text-center <i>Sprint</i>
+            p.text-center Son lapsos de tiempo, por lo general de dos a cuatro semanas, que se imponen para cumplir con las metas propuestas. 
           .tarjeta.box-shadow.p-4.mb-5.h-100
             .row.justify-content-center.mb-3
               .col-8
                 img(src='@/assets/curso/temas/tema1/29.svg' alt='AvatarTop')
-            h5.text-center Planificación del Sprint:
-            p.text-center son sesiones donde se establecen los flujos de trabajo y metas que se asignarán a los equipos de desarrollo.  
+            h5.text-center Planificación del <i>Sprint</i>
+            p.text-center Son sesiones donde se establecen los flujos de trabajo y metas que se asignarán a los equipos de desarrollo.  
 
           .tarjeta.box-shadow.p-4.mb-5.h-100
             .row.justify-content-center.mb-3
               .col-8
                 img(src='@/assets/curso/temas/tema1/30.svg' alt='AvatarTop')
-            h5.text-center Reuniones diarias:
-            p.text-center sesiones cortas de aproximadamente 20 minutos que se realizan para hacer seguimiento a los avances del Sprint y programar nuevas metas para el siguiente día.
+            h5.text-center Reuniones diarias
+            p.text-center Sesiones cortas de aproximadamente 20 minutos que se realizan para hacer seguimiento a los avances del <i>Sprint</i> y programar nuevas metas para el siguiente día.
           .tarjeta.box-shadow.p-4.mb-5.h-100
             .row.justify-content-center.mb-3
               .col-8
                 img(src='@/assets/curso/temas/tema1/31.svg' alt='AvatarTop')
-            h5.text-center Revisión del Sprint:
-            p.text-center son sesiones que se realizan al final de cada Sprint para constatar si las metas propuestas se cumplieron o no. 
+            h5.text-center Revisión del <i>Sprint</i>
+            p.text-center Son sesiones que se realizan al final de cada <i>Sprint</i> para constatar si las metas propuestas se cumplieron o no. 
           .tarjeta.box-shadow.p-4.mb-5.h-100
             .row.justify-content-center.mb-3
               .col-8
                 img(src='@/assets/curso/temas/tema1/32.svg' alt='AvatarTop')
-            h5.text-center Retrospectiva del Sprint:
-            p.text-center sesiones que realiza el equipo de desarrollo cuando termina un Sprint para analizar los errores cometidos y mejorar en el próximo Sprint.
-    p.mb-5(data-aos='fade-right') La constante evolución del desarrollo de <i>software</i> requiere metodologías que se ajusten a los altos estándares de rendimiento y competitividad del mercado. La metodología Scrum es una excelente alternativa para resolver situaciones donde son prioritarias las entregas en corto plazo.  
+            h5.text-center Retrospectiva del <i>Sprint</i>
+            p.text-center Sesiones que realiza el equipo de desarrollo cuando termina un <i>Sprint</i> para analizar los errores cometidos y mejorar en el próximo <i>Sprint</i>.
+    p.mb-5(data-aos='fade-right') La constante evolución del desarrollo de <i>software</i> requiere metodologías que se ajusten a los altos estándares de rendimiento y competitividad del mercado. La metodología <i>Scrum</i> es una excelente alternativa para resolver situaciones donde son prioritarias las entregas en corto plazo.  
     .row.justify-content-center.mb-5
       .col-lg-9(data-aos="zoom-in")
         img(src='@/assets/curso/temas/tema1/33-.svg' alt='AvatarTop').mb-4
@@ -291,7 +292,7 @@
     .row.justify-content-center.mb-5
       .col-lg-2.col-6(data-aos="fade-right"): img(src='@/assets/curso/temas/tema1/34.svg', alt='')
       .col-lg-10
-        p <i>Sprint</i> es el nombre de cada ciclo o iteración que haremos en un proyecto <i>Scrum</i>. Nos permitirás planificar el ritmo de trabajo, la duración habitual de un #[em sprint] es de unas 4 semanas, aunque la metodología dice que debe ser entre dos semanas y dos meses. En cada #[em Sprint] o cada ciclo de trabajo, queremos lograr lo que se llama un incremento de producto o entregable que agrega valor al cliente.
+        p <i>Sprint</i> es el nombre de cada ciclo o iteración que haremos en un proyecto <i>Scrum</i>. Nos permitirá planificar el ritmo de trabajo, la duración habitual de un #[em sprint] es de unas 4 semanas, aunque la metodología dice que debe ser entre dos semanas y dos meses. En cada #[em Sprint] o cada ciclo de trabajo, queremos lograr lo que se llama un incremento de producto o entregable que agrega valor al cliente.
     .row.justify-content-center.mb-5
       .col-lg-8(data-aos="zoom-in")
         ImagenInfografica.color-acento-botones.mb-5

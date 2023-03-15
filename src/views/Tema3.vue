@@ -48,7 +48,7 @@
       .p-4.py-md-5(titulo="Ejemplo <br> de aplicación" :icono="require('@/assets/curso/temas/tema3/9.svg')")
         .row
           .col-md-8.mb-4.mb-md-0
-            p Un ejemplo de la aplicación de esta técnica puede ser en el testing de un módulo donde se verifica que la edad de una persona está entre el rango de 18 a 25 años, para asignar una promoción y con ello un descuento. Si el requerimiento especifica que el rango de edad es entre 18 y 25 años, el código fuente de la aplicación, deberá contener las operaciones de mayor o igual que, y menor o igual que. En caso de no contener dichas restricciones, se generarán <i>bugs</i> que tendrán que ser corregidos.   
+            p Un ejemplo de la aplicación de esta técnica puede ser en el <i>testing</i> de un módulo donde se verifica que la edad de una persona está entre el rango de 18 a 25 años, para asignar una promoción y con ello un descuento. Si el requerimiento especifica que el rango de edad es entre 18 y 25 años, el código fuente de la aplicación, deberá contener las operaciones de mayor o igual que, y menor o igual que. En caso de no contener dichas restricciones, se generarán <i>bugs</i> que tendrán que ser corregidos.   
           .col-md-4: img(src='@/assets/curso/temas/tema3/6.png', alt='')
       .p-4.py-md-5(titulo="Análisis <br> de robustez" :icono="require('@/assets/curso/temas/tema3/10.svg')")
         .row
