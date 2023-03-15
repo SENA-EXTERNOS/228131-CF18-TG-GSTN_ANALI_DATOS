@@ -147,7 +147,7 @@ export default {
     {
       termino: 'Programación extrema',
       significado:
-        'agrupación de reglas que generan agilidad y resiliencia a las organizaciones en la ejecución de los proyectos de software en contextos que son muy variables.',
+        'agrupación de reglas que generan agilidad y resiliencia a las organizaciones en la ejecución de los proyectos de <em>software</em> en contextos que son muy variables.',
     },
     {
       termino: 'Pruebas funcionales',
