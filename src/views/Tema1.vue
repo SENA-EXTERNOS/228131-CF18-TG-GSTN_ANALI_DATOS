@@ -83,26 +83,26 @@
           template(v-slot:imagen)
             figure
               img(src='@/assets/curso/temas/tema1/17.svg', alt='Texto que describa la imagen')
-            figcaption Nota. Adaptado de Tordecilla, D. (2022). 
+            figcaption.mt-2 Nota. Adaptado de Tordecilla, D. (2022). 
 
-          div(x="21.8%" y="19%" tooltip="Abrir" numero="" )
+          div(x="21.8%" y="17%" tooltip="Abrir" numero="" )
             h4 Reporte de resultados
             p Los reportes de resultados se utilizan para realizar nuevos requerimientos  y mejoras que requiere el producto en su nueva versión.
-          div(x="78.5%" y="19%" tooltip="Abrir" numero="" )
+          div(x="78.5%" y="17%" tooltip="Abrir" numero="" )
             h4 Ejecución de pruebas
             p La ejecución de pruebas es el proceso que permite al probador de #[em software] ejecutar los métodos de prueba para verificar y validar el correcto funcionamiento del #[em software.] 
-          div(x="10%" y="56.2%" tooltip="Abrir" numero="" )
+          div(x="10%" y="51%" tooltip="Abrir" numero="" )
             h4 Entorno de pruebas
             p El entorno de pruebas es el escenario donde se realizan las pruebas. 
               br
               |Debido a la diversidad de los tipos de aplicaciones pueden existir entornos web,  de escritorio, móviles, entre otros.
-          div(x="90.5%" y="56.2%" tooltip="Abrir" numero="" )
+          div(x="90.5%" y="51%" tooltip="Abrir" numero="" )
             h4 Requerimientos
             p Los requerimientos de #[em software] son una descripción detallada del comportamiento del #[em software], es decir, lo que el usuario espera que haga. Son reglas que siguen los desarrolladores para crear el producto final  y satisfacer las necesidades de los usuarios.
-          div(x="21.6%" y="93.9%" tooltip="Abrir" numero="" )
+          div(x="21.6%" y="84%" tooltip="Abrir" numero="" )
             h4 Diseño de pruebas
             p El diseño de pruebas consiste en el análisis de los requerimientos existente y el planteamiento de los puntos críticos donde el sistema puede fallar, así mismo la hoja de ruta que deben seguir los  probadores del #[em software] para garantizar el mínimo de errores en el producto final.
-          div(x="78.8%" y="93.9%" tooltip="Abrir" numero="" )
+          div(x="78.8%" y="84%" tooltip="Abrir" numero="" )
             h4 Creación de pruebas
             p A partir del diseño y planificación de las pruebas se crean los casos de pruebas que permiten determinar si el #[em software] es o no aceptable por los usuarios del sistema.
     
