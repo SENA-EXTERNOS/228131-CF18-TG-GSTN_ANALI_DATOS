@@ -20,7 +20,7 @@
     .row.justify-content-center.mb-5
       .col-lg-2.col-6(data-aos="fade-right"): img(src='@/assets/curso/temas/tema2/2.svg', alt='')
       .col-lg-10(data-aos="fade-left")
-        p Criterio de clasificación que se basa en el conocimiento interno que tiene el #[em tester] sobre la aplicación, por lo tanto, es necesario que tenga habilidades de programación y conozca a detalle la estructura del diseño del #[em software ]. Este tipo de pruebas se dividen en: de caja negra, de caja blanca y de caja gris.
+        p Criterio de clasificación que se basa en el conocimiento interno que tiene el #[em tester] sobre la aplicación, por lo tanto, es necesario que tenga habilidades de programación y conozca a detalle la estructura del diseño del #[em software]. Este tipo de pruebas se dividen en: de caja negra, de caja blanca y de caja gris.
     TabsB.color-acento-contenido.mb-5
       .p-4.py-md-5(titulo="Pruebas de <br> caja negra" :icono="require('@/assets/curso/temas/tema2/6.svg')")
         .row
@@ -139,7 +139,7 @@
         ul.lista-ul--color
           li
             i.fas.fa-angle-right(style='color: #0f2771')
-            p.mb-0 Las pruebas inician desde el interior hacia afuera, comenzando con la verificación de los módulos o métodos y finalizando con la validación de los requisitos y funcionalidades del #[em software ].
+            p.mb-0 Las pruebas inician desde el interior hacia afuera, comenzando con la verificación de los módulos o métodos y finalizando con la validación de los requisitos y funcionalidades del #[em software].
           li
             i.fas.fa-angle-right(style='color: #0f2771')
             p.mb-0 Es pertinente que en los puntos críticos del #[em software ] se realicen distintos casos de pruebas que permitan garantizar la calidad de este. 
@@ -151,7 +151,7 @@
             p.mb-0 El <i>testing</i> y la depuración son procesos para encontrar <i>bugs</i> y corregirlos; sin embargo, la depuración se ejecuta por el desarrollador en tiempo de codificación del <i>software</i> y el <i>testing</i> y, además de contener estas pruebas, abarca todas las verificaciones y validaciones del producto.
           li
             i.fas.fa-angle-right(style='color: #0f2771')
-            p.mb-0 Están formadas por pruebas de bajo nivel y alto nivel, donde las de bajo nivel se relacionan con el código fuente y las de alto nivel con las funcionalidades del #[em software ]. 
+            p.mb-0 Están formadas por pruebas de bajo nivel y alto nivel, donde las de bajo nivel se relacionan con el código fuente y las de alto nivel con las funcionalidades del #[em software]. 
 
 
 

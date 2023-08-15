@@ -110,8 +110,7 @@ export default {
       referencia:
         'Piattini M., García, F., Pino, F. & García, I. (2020).<i> Calidad de sistemas de información.</i> Editorial Rama. ',
       tipo: 'Libro',
-      link:
-        'https://www.alphaeditorialcloud.com/library/publication/calidad-de-sistemas-de-informacion-5a-edicion-ampliada-y-actualizada  ',
+      link: 'http://190.57.147.202:90/xmlui/handle/123456789/2773',
     },
     {
       tema: 'Introducción a las pruebas de software',
@@ -140,7 +139,7 @@ export default {
   ],
   glosario: [
     {
-      termino: '<em> Debugging</em>',
+      termino: '<em>Debugging</em>',
       significado:
         'proceso que implanta puntos de interrupción o <i>breakpoint</i>, para analizar el estado del <i>software</i> en una parte dada del código.',
     },
@@ -170,7 +169,7 @@ export default {
         'combinación de condiciones, reglas y acciones que se pueden representar en una matriz para mayor comprensión.',
     },
     {
-      termino: '<em> Testing </em>',
+      termino: '<em>Testing</em>',
       significado:
         'mecanismo para la verificación y validación de las funcionalidades de los programas o aplicaciones de <em> software </em> con el fin de ofrecer un producto sin defectos o errores.',
     },
