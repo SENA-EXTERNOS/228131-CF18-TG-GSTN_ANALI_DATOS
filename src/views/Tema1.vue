@@ -246,10 +246,10 @@
             )
             .bloque-texto-g__texto.p-4.w-75
               p.mb-0 Los roles descritos dentro de la metodología <i>Scrum</i> se pueden entender de mejor forma con una analogía de la vida cotidiana, donde se tiene un auto de carreras que es el equipo de desarrollo. El cliente es el conductor que acelera y determina la orientación y destino, y el <i>Scrum Master</i> es el mecánico que realiza los mantenimientos y ajustes para que funcione correctamente.
-                br
-                br
-                |Fases de la metodología <i>Scrum</i>:
+            
+      
     .row.justify-content-center.align-items-center.mb-5
+      h3 Fases de la metodología <i>Scrum</i>
       .col-lg-4.col-6(data-aos="fade-right"): img(src='@/assets/curso/temas/tema1/27.png', alt='')
       .col-lg-8(data-aos="fade-left")
         SlyderF.slyder-100(columnas="col-lg-6 col-xl-6")
