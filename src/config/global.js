@@ -110,7 +110,8 @@ export default {
       referencia:
         'Piattini M., García, F., Pino, F. & García, I. (2020).<i> Calidad de sistemas de información.</i> Editorial Rama. ',
       tipo: 'Libro',
-      link: 'http://190.57.147.202:90/xmlui/handle/123456789/2773',
+      link:
+        'https://edicionesdelau.com/producto/calidad-de-sistemas-de-informacion-4a-edicion-ampliada-y-actualizada/',
     },
     {
       tema: 'Introducción a las pruebas de software',
