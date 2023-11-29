@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="150" height="150" viewBox="0 0 150 150">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_45013" data-name="Rectangle 45013" width="59.997" height="60" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="_39" data-name="39" transform="translate(-726 -9066)">
+    <g id="Group_148533" data-name="Group 148533" transform="translate(726 9066)">
+      <circle id="Ellipse_4809" data-name="Ellipse 4809" cx="75" cy="75" r="75" fill="#0f2771"/>
+    </g>
+    <g id="Group_148536" data-name="Group 148536" transform="translate(0 659)">
+      <rect id="Rectangle_40379" data-name="Rectangle 40379" width="86" height="86" transform="translate(758 8439)" fill="none"/>
+      <rect id="Rectangle_40379-2" data-name="Rectangle 40379" width="86" height="86" transform="translate(758 8439)" fill="none"/>
+      <g id="Group_146979" data-name="Group 146979" transform="translate(771 8452)">
+        <g id="Group_146979-2" data-name="Group 146979" clip-path="url(#clip-path)">
+          <path id="Path_203840" data-name="Path 203840" d="M20,42.5H17.5A2.5,2.5,0,0,1,15,40V25a2.5,2.5,0,0,1,2.5-2.5H20A2.5,2.5,0,0,1,22.5,25V40A2.5,2.5,0,0,1,20,42.5" fill="#fff"/>
+          <path id="Path_203841" data-name="Path 203841" d="M45,28.527A6.028,6.028,0,0,0,38.973,22.5H34a11.47,11.47,0,0,0,.525-3.425c0-4.049-2.175-5.9-4.175-5.9-3,0-3,3.2-3,4.75,0,1.9-1.65,3.6-2.975,4.649A5,5,0,0,1,25,25c0,.778.028,14.972-.05,15.674A27.847,27.847,0,0,0,35.6,42.5h1.9a6.136,6.136,0,0,0,6.075-5.049l-.1-.025C44.7,34.877,45,28.6,45,28.527" fill="#fff"/>
+          <path id="Path_203842" data-name="Path 203842" d="M3.75,30A26.235,26.235,0,0,1,44.328,8.021L40.548,11.8A1.875,1.875,0,0,0,41.873,15H53.122A1.876,1.876,0,0,0,55,13.128V1.878A1.875,1.875,0,0,0,51.8.554L47.013,5.338A29.729,29.729,0,0,0,30,0,29.986,29.986,0,0,0,1.283,38.667a1.874,1.874,0,1,0,3.589-1.083A26.2,26.2,0,0,1,3.75,30Z" fill="#fff"/>
+          <path id="Path_203843" data-name="Path 203843" d="M58.714,21.337a1.875,1.875,0,1,0-3.59,1.082A26.237,26.237,0,0,1,15.694,52l3.762-3.8A1.877,1.877,0,0,0,18.124,45H6.874a1.867,1.867,0,0,0-1.332.557A1.89,1.89,0,0,0,5,46.9l.125,11.249a1.877,1.877,0,0,0,3.208,1.3l4.694-4.747A29.714,29.714,0,0,0,30,60,29.989,29.989,0,0,0,58.714,21.337Z" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
